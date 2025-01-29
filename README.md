@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast 
 My goal is to leverage data to solve real-world problems and create impactful insights that drive better decisions.
 
 ### 🌐 About Me
-- 💼 I’m currently working as a **AI/ML** at **TransBnk Solutions Private Limited**.
+- 💼 I’m currently working as a **AI/ML Specialist** at **TransBnk Solutions Private Limited**.
 - 📍 Based in **Mumbai, India**.
 - 🎓 I hold a **Bachelors Degree** in **Mechanical Engineering**.
 - 🌱 Currently expanding my skills in **AI ethics, Responsible AI**, and advanced deep learning techniques.
